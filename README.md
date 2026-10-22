@@ -34,5 +34,6 @@ A precision 2D platformer set in an industrial prison: single-screen levels, dea
 
 ## Get in touch
 
+- 💼 LinkedIn: [linkedin.com/in/keremyalintaskin](https://www.linkedin.com/in/keremyalintaskin/)
 - 🕹️ itch.io: [keremyalin.itch.io](https://keremyalin.itch.io/)
 - 📧 Email: keremyalintaskin@gmail.com
